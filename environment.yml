@@ -1,8 +1,0 @@
-name: recibo-app
-channels:
-  - conda-forge
-dependencies:
-  - python=3.10
-  - streamlit
-  - jinja2
-  - weasyprint
