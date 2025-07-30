@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+# Entornos
+env/
+.venv/
+secrets.py
+
+# Streamlit
+.streamlit/
+
+# WeasyPrint cache
+.weasyprint-cache/
+
+# OS
+.DS_Store
